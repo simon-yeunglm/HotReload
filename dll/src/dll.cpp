@@ -7,6 +7,6 @@
 
 bool tick()
 {
-	printf("hello\n");
-	return false;
+	printf("hi\n");
+	return true;
 }
